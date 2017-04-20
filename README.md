@@ -1,9 +1,9 @@
 # UAlbany_CS_Department_Website
 
 Modules:
-* Bullet list
+ 
 There are mainly 3 roles: Faculty, Staff and Students
-Faculty:
+*Faculty:
 -They can create and assign subjects to themselves if they are teaching in that semester
 -Post course syllabus and TA related information
 -Post exam results
