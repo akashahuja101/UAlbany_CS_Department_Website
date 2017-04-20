@@ -18,4 +18,4 @@ There are mainly 3 roles: Faculty, Staff and Students
   *Post questions or answer on discussion board.
 
 * Bullet list
-              * Nested bullet
+ * Nested bullet
